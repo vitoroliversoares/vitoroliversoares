@@ -3,8 +3,8 @@
 ## Sobre mim
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 Estudando Sistemas de Informação na FAESA.
-- 💼 Trabalhando como Assistente de Suporte Técnico Pleno na GShield.
+- 🎓 Estudando Sistemas de Informação na [FAESA](https://www.faesa.br/).
+- 💼 Trabalhando como Assistente de Suporte Técnico Pleno na [GShield](https://www.gorilashield.com.br).
 - 🌱 Aprendendo mais sobre bancos de dados relacionais.
 
 ## Minhas Skills
