@@ -38,6 +38,6 @@
 
 ## Onde me encontrar
 
-[![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=(https://www.linkedin.com/in/vitor-soares-ti))](https://www.linkedin.com/in/vitor-soares-ti)
+[![Linkedin](https://img.shields.io/badge/-Vitor%20Soares-blue?style=flat-square&logo=Linkedin&logoColor=white&link=(https://www.linkedin.com/in/vitor-soares-ti))](https://www.linkedin.com/in/vitor-soares-ti)
 [![Gmail Badge](https://img.shields.io/badge/-vitordeoliveirasoares092@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vitordeoliveirasoares092@gmail.com)](mailto:vitordeoliveirasoares092@gmail.com)
 [![GitHub](https://img.shields.io/github/followers/vitoroliversoares?label=follow&style=social)](https://github.com/vitoroliversoares)
