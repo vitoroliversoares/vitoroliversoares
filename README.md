@@ -17,7 +17,7 @@
 
 **DevOps**
 
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git&logoColor=F05032)
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git&logoColor=00599C)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github&logoColor=00599C)
 
 **Ferramentas de desenvolvimento**
