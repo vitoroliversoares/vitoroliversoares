@@ -32,9 +32,8 @@
 <br/>
 
 
-<a href="https://github.com/vitoroliversoares" title="Perfil do Vitor">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vitoroliversoares&theme=dracula&show_icons=true" />
-</a>
+[![card](https://github-readme-stats.vercel.app/api?username=vitoroliversoares&theme=synthwave&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![vitoroliversoares](https://github-readme-stats.vercel.app/api/top-langs/?username=vitoroliversoares&layout=compact&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Onde me encontrar
 
