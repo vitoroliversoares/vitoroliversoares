@@ -12,22 +12,22 @@
 **Aplicações e dados**
 
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=Python&logoColor=00599C)
-![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=openjdk&logoColor=5382a1)
+![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=openjdk&logoColor=00599C)
 ![PostgreSQL](https://img.shields.io/badge/-postgresql-333333?style=flat&logo=postgresql)
 
 **DevOps**
 
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github&logoColor=181717)
+![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github&logoColor=00599C)
 
 **Ferramentas de desenvolvimento**
 
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-333333?style=flat&logo=intellij-idea&logoColor=000000)
-![PyCharm](https://img.shields.io/badge/-PyCharm-333333?style=flat&logo=pycharm&logoColor=000000)
-![WebStorm](https://img.shields.io/badge/-WebStorm-333333?style=flat&logo=webstorm&logoColor=000000)
-![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=0052CC)
-![Miro](https://img.shields.io/badge/-Miro-333333?style=flat&logo=miro&logoColor=050038)
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=00599C)
+![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-333333?style=flat&logo=intellij-idea&logoColor=00599C)
+![PyCharm](https://img.shields.io/badge/-PyCharm-333333?style=flat&logo=pycharm&logoColor=00599C)
+![WebStorm](https://img.shields.io/badge/-WebStorm-333333?style=flat&logo=webstorm&logoColor=00599C)
+![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=00599C)
+![Miro](https://img.shields.io/badge/-Miro-333333?style=flat&logo=miro&logoColor=00599C)
 
 <br/>
 
