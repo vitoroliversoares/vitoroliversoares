@@ -17,17 +17,17 @@
 
 **DevOps**
 
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github&logoColor=181717)
 
 **Ferramentas de desenvolvimento**
 
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-![Miro](https://img.shields.io/badge/-Miro-333333?style=flat&logo=miro&logoColor=007ACC)
-![WebStorm](https://img.shields.io/badge/-webstorm-333333?style=flat&logo=webstorm)
-![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20Idea-333333?style=flat&logo=IntelliJ%20Idea)
-![PyCharm](https://img.shields.io/badge/-PyCharm-333333?style=flat&logo=PyCharm)
-![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
+![VS Code](https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-333333?style=flat&logo=intellij-idea&logoColor=000000)
+![PyCharm](https://img.shields.io/badge/-PyCharm-333333?style=flat&logo=pycharm&logoColor=000000)
+![WebStorm](https://img.shields.io/badge/-WebStorm-333333?style=flat&logo=webstorm&logoColor=000000)
+![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=0052CC)
+![Miro](https://img.shields.io/badge/-Miro-333333?style=flat&logo=miro&logoColor=050038)
 
 <br/>
 
