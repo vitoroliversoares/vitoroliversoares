@@ -22,7 +22,7 @@
 
 **Ferramentas de desenvolvimento**
 
-![VS Code](https://img.shields.io/badge/Visual_Studio_Code-2b213a?style=for-the-badge&logo=visual-studio-code&logoColor=2b213a)
+![VS Code](https://img.shields.io/badge/Visual_Studio_Code-2b213a?&logo=visual-studio-code&logoColor=2b213a)
 ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-333333?style=flat&logo=intellij-idea&logoColor=2b213a)
 ![PyCharm](https://img.shields.io/badge/-PyCharm-333333?style=flat&logo=pycharm&logoColor=2b213a)
 ![WebStorm](https://img.shields.io/badge/-WebStorm-333333?style=flat&logo=webstorm&logoColor=2b213a)
