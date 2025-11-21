@@ -33,7 +33,7 @@
 
 
 [![card](https://github-readme-stats.vercel.app/api?username=vitoroliversoares&theme=synthwave&show_icons=true)](https://github.com/vitoroliversoares/github-readme-stats)
-[![vitoroliversoares](https://github-readme-stats.vercel.app/api/top-langs/?username=vitoroliversoares&layout=compact&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+[![vitoroliversoares](https://github-readme-stats.vercel.app/api/top-langs/?username=vitoroliversoares&layout=compact&theme=synthwave)](https://github.com/vitoroliversoares/github-readme-stats)
 
 ## Onde me encontrar
 
