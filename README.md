@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=vitoroliversoares&color=00599C)
+![](https://komarev.com/ghpvc/?username=vitoroliversoares&color=FF00FF)
 
 ## Sobre mim
 
