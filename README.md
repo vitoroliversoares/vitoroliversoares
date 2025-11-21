@@ -22,7 +22,7 @@
 
 **Ferramentas de desenvolvimento**
 
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visualstudiocode&logoColor=2b213a)
+![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-2b213a?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iI2ZmNzljNiI+PHBhdGggZD0iTTIzLjE1IDIuNTg3TDE4LjIxLjIxYTEuNTMgMS41MyAwIDAgMC0xLjcuOUw5LjI0IDguMiA0LjEyIDUuNDZhLjYuNiAwIDAgMC0uOC4yMTNsLTIuNSA0LjE3YS42LjYgMCAwIDAgMCAuNTNsMi41IDQuMThhLjYuNiAwIDAgMCAwIC41M2wyLjUgNC4xOGEuNi42IDAgMCAwIC44LjIxM2w1LjEyLTIuNzIgNy4yNyA3LjA5YTEuNTMgMS41MyAwIDAgMCAxLjcuOWw0LjkzLTIuMzdhMS42MSAxLjYxIDAgMCAwIDEuMi0xLjVWMi45OGExLjYxIDEuNjEgMCAwIDAtMS4yLTEuNTE1em0tNS4yIDE3LjEzbC0zLjU1LTMuNDM4TDYuMTEgMTkuNWw3LjIxIDQuMzY0em0tMy41NS0xMi40NTNsMy41NS0zLjQzOFYyLjg0bC03LjIxIDQuMzY0em0tNy40NSA1LjA0bC00LjE3IDIuMjN2LTUuNzR6bTcuNDQgNC41MmwtMy43NS0zLjY0bDMuNzUtMy42NHoiLz48L3N2Zz4=)
 ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-333333?style=flat&logo=intellij-idea&logoColor=2b213a)
 ![PyCharm](https://img.shields.io/badge/-PyCharm-333333?style=flat&logo=pycharm&logoColor=2b213a)
 ![WebStorm](https://img.shields.io/badge/-WebStorm-333333?style=flat&logo=webstorm&logoColor=2b213a)
