@@ -12,7 +12,7 @@
 **Aplicações e dados**
 
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=Python&logoColor=2b213a)
-![Java](https://img.shields.io/badge/Java-2b213a?style=for-the-badge&logo=openjdk&logoColor=2b213a)
+![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=openjdk&logoColor=2b213a)
 ![PostgreSQL](https://img.shields.io/badge/-postgresql-333333?style=flat&logo=postgresql&logoColor=2b213a)
 
 **DevOps**
