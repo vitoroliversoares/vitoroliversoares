@@ -11,23 +11,23 @@
 
 **Aplicações e dados**
 
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=Python&logoColor=8A2BE2)
-![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=openjdk&logoColor=8A2BE2)
-![PostgreSQL](https://img.shields.io/badge/-postgresql-333333?style=flat&logo=postgresql&logoColor=8A2BE2)
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=Python&logoColor=2b213a)
+![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=openjdk&logoColor=2b213a)
+![PostgreSQL](https://img.shields.io/badge/-postgresql-333333?style=flat&logo=postgresql&logoColor=2b213a)
 
 **DevOps**
 
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git&logoColor=FF00FF)
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github&logoColor=FF00FF)
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git&logoColor=2b213a)
+![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github&logoColor=2b213a)
 
 **Ferramentas de desenvolvimento**
 
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=FF00FF)
-![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-333333?style=flat&logo=intellij-idea&logoColor=FF00FF)
-![PyCharm](https://img.shields.io/badge/-PyCharm-333333?style=flat&logo=pycharm&logoColor=FF00FF)
-![WebStorm](https://img.shields.io/badge/-WebStorm-333333?style=flat&logo=webstorm&logoColor=FF00FF)
-![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=FF00FF)
-![Miro](https://img.shields.io/badge/-Miro-333333?style=flat&logo=miro&logoColor=FF00FF)
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=2b213a)
+![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-333333?style=flat&logo=intellij-idea&logoColor=2b213a)
+![PyCharm](https://img.shields.io/badge/-PyCharm-333333?style=flat&logo=pycharm&logoColor=2b213a)
+![WebStorm](https://img.shields.io/badge/-WebStorm-333333?style=flat&logo=webstorm&logoColor=2b213a)
+![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=2b213a)
+![Miro](https://img.shields.io/badge/-Miro-333333?style=flat&logo=miro&logoColor=2b213a)
 
 <br/>
 
