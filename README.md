@@ -11,9 +11,9 @@
 
 **Aplicações e dados**
 
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=Python&logoColor=FF00FF)
-![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=openjdk&logoColor=FF00FF)
-![PostgreSQL](https://img.shields.io/badge/-postgresql-333333?style=flat&logo=postgresql&logoColor=FF00FF)
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=Python&logoColor=8A2BE2)
+![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=openjdk&logoColor=8A2BE2)
+![PostgreSQL](https://img.shields.io/badge/-postgresql-333333?style=flat&logo=postgresql&logoColor=8A2BE2)
 
 **DevOps**
 
