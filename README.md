@@ -19,6 +19,7 @@
 
 ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=Linux&logoColor=2b213a)
 ![Windows Server](https://img.shields.io/badge/-Windows%20Server-333333?style=flat&logo=windows&logoColor=2b213a)
+![Windows](https://img.shields.io/badge/-Windows-333333?style=flat&logo=windows&logoColor=2b213a)
 
 **DevOps**
 
