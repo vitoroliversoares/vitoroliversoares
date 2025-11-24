@@ -15,6 +15,11 @@
 ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=openjdk&logoColor=2b213a)
 ![PostgreSQL](https://img.shields.io/badge/-postgresql-333333?style=flat&logo=postgresql&logoColor=2b213a)
 
+**Sistemas Operacionais**
+
+![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=Linux&logoColor=2b213a)
+![Windows Server](https://img.shields.io/badge/-Windows%20Server-333333?style=flat&logo=windows&logoColor=2b213a)
+
 **DevOps**
 
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git&logoColor=2b213a)
