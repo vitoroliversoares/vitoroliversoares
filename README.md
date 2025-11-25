@@ -37,14 +37,8 @@
 
 <br/>
 
-### ⚙️ Análises do Github
+[![vitoroliversoares](https://github-readme-stats.vercel.app/api/top-langs/?username=vitoroliversoares&layout=compact&theme=synthwave&v=2)](https://github.com/anuraghazra/github-readme-stats)
 
-  <tr>
-      <img
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitoroliversoares&theme=dark&hide_border=false&include_all_commits=true&layout=compact"
-        alt="Github Stats"
-      />
-    
 ### 🏆 Troféus do Perfil
 
 <p align="center">
