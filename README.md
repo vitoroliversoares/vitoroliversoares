@@ -38,8 +38,11 @@
 <br/>
 
 
-[![card](https://github-readme-stats.vercel.app/api?username=vitoroliversoares&theme=synthwave&show_icons=true&cache_seconds=1800&v=2)](https://github.com/anuraghazra/github-readme-stats)
-[![vitoroliversoares](https://github-readme-stats.vercel.app/api/top-langs/?username=vitoroliversoares&layout=compact&theme=synthwave&v=2)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vitoroliversoares&theme=synthwave&show_icons=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+
+<br/>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vitoroliversoares&layout=compact&theme=synthwave&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Onde me encontrar
 
