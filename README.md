@@ -37,8 +37,6 @@
 
 <br/>
 
-[![Arribass Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vitoroliversoares)](https://github.com/vitoroliversoares/github-readme-stats)
-
 ### 🏆 Troféus do Perfil
 
 <p align="center">
