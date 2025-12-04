@@ -13,6 +13,7 @@
 
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=Python&logoColor=2b213a)
 ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=openjdk&logoColor=2b213a)
+![C#](https://img.shields.io/badge/-C#-333333?style=flat&logo=c#&logoColor=2b213a)
 ![PostgreSQL](https://img.shields.io/badge/-postgresql-333333?style=flat&logo=postgresql&logoColor=2b213a)
 
 **Sistemas Operacionais**
