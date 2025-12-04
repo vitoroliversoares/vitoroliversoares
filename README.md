@@ -9,6 +9,12 @@
 
 ## Minhas Skills
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,docker,git,java,postgres,py,supabase,linux,ubuntu,mint,visualstudio,vscode,pycharm,/>
+      </a>
+    </p>
+
 **Aplicações e dados**
 
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=Python&logoColor=2b213a)
