@@ -11,54 +11,10 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,docker,git,java,postgres,py,supabase,linux,ubuntu,mint,visualstudio,vscode,pycharm,/>
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,docker,git,java,postgres,py,supabase,linux,ubuntu,mint,visualstudio,vscode,pycharm,idea" />
       </a>
     </p>
 
-**Aplicações e dados**
-
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=Python&logoColor=2b213a)
-![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=openjdk&logoColor=2b213a)
-![C#](img.shields.io)
-![PostgreSQL](https://img.shields.io/badge/-postgresql-333333?style=flat&logo=postgresql&logoColor=2b213a)
-
-**Sistemas Operacionais**
-
-![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=Linux&logoColor=2b213a)
-![Windows Server](https://img.shields.io/badge/-Windows%20Server-333333?style=flat&logo=windows&logoColor=2b213a)
-![Windows](https://img.shields.io/badge/-Windows-333333?style=flat&logo=windows&logoColor=2b213a)
-
-**DevOps**
-
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git&logoColor=2b213a)
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github&logoColor=2b213a)
-
-**Ferramentas de desenvolvimento**
-
-![VS Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visualstudiocode&logoColor=2b213a)
-![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-333333?style=flat&logo=intellij-idea&logoColor=2b213a)
-![PyCharm](https://img.shields.io/badge/-PyCharm-333333?style=flat&logo=pycharm&logoColor=2b213a)
-![WebStorm](https://img.shields.io/badge/-WebStorm-333333?style=flat&logo=webstorm&logoColor=2b213a)
-![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=2b213a)
-![Miro](https://img.shields.io/badge/-Miro-333333?style=flat&logo=miro&logoColor=2b213a)
-
-<br/>
-
-### 🏆 Troféus do Perfil
-
-<p align="center">
-  <a
-    href="https://github.com/ryo-ma/github-profile-trophy"
-    title="repositório de troféus"
-  >
-    <img
-      width="800"
-      src="https://github-profile-trophy.vercel.app/?username=vitoroliversoares&column=8&theme=synthwave&no-frame=true&no-bg=true"
-    />
-  </a>
-</p>
-
----
 
 ## Onde me encontrar
 
