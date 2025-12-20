@@ -16,9 +16,8 @@
     </p>
 
 
-## Meus Stats
+## Minhas Linguagens
 
-[![Stats](https://github-readme-stats.vercel.app/api?username=vitoroliversoares&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 ![Linguagens mais utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=vitoroliversoares&size_weight=0.5&count_weight=0.5&theme=tokyonight&v=1)
 
 ## Onde me encontrar
