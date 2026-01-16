@@ -11,7 +11,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,postgres,py,visualstudio,vscode,pycharm,idea,powerbi,pyspark" />
+    <img src="https://skillicons.dev/icons?i=java,postgres,py,visualstudio,vscode,pycharm,idea,aws" />
       </a>
     </p>
 
