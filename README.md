@@ -5,13 +5,13 @@
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 Estudando [Sistemas de Informação](https://www.faesa.br/graduacao/sistemas-de-informacao/) na [FAESA](https://www.faesa.br/).
 - 💼 Trabalhando como Assistente de Suporte Técnico Pleno na [GShield](https://www.gorilashield.com.br).
-- 🌱 Aprendendo mais sobre bancos de dados relacionais.
+- 🌱 Aprendendo mais sobre ferramnetas de análises de dados.
 
 ## Minhas Skills
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,postgres,py,visualstudio,vscode,pycharm,idea" />
+    <img src="https://skillicons.dev/icons?i=java,postgres,py,visualstudio,vscode,pycharm,idea,powerbi,pyspark" />
       </a>
     </p>
 
