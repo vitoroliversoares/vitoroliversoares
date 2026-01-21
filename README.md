@@ -67,7 +67,7 @@ Eu sempre fui destacado como alguém com uma curva de aprendizado acentuada. Um 
 
 ## 💼 Experiência Profissional
 
-### 🔹 Assistente de Suporte Técnico Pleno — **GShield** (Ago 2025 – Present)
+### 🔹 Assistente de Suporte Técnico Pleno — **GShield** (Ago 2025 – Presente)
 **Presencial | Serra, ES**
 
 Foco em **engenharia de suporte**, automação de infraestrutura e otimização de SLA:
