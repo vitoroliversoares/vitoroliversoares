@@ -139,5 +139,5 @@ Sistema de gerenciamento de tickets focado na organização operacional:
 ---
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?section=footer&type=waving&height=120&customColorList=360505,050520" />
+<img src="https://capsule-render.vercel.app/api?section=footer&type=waving&height=120&color=0:5A262C,100:070738" />
 </div>
