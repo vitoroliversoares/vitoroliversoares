@@ -56,7 +56,7 @@ Eu sempre fui destacado como alguém com uma curva de aprendizado acentuada. Um 
 <div align="center">
 
 ### Backend & Banco de Dados
-<img src="https://skillicons.dev/icons?i=csharp,mysql,js&perline=6" />
+<img src="https://skillicons.dev/icons?i=cs,mysql,js&perline=6" />
 
 ### DevOps & Infraestrutura
 <img src="https://skillicons.dev/icons?i=docker,linux,nginx&perline=6" />
