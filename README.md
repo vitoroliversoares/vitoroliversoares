@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:5A262C,100:070738&text=Vitor%20Soares&desc=Python%20|%20PostgreSQL%20|%20Tableau%20|%20Java&descAlign=50&descAlignY=64&fontAlignY=48" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:5A262C,100:070738&text=Vitor%20Soares&desc=Python%20|%20PostgreSQL%20|%20Tableau%20|%20Java&descAlign=50&descAlignY=64&fontAlignY=48&fontColor=FFFFFF" />
 
 ### Estudante de Dados | Data Mindset | SQL, Python e Tableau
 
