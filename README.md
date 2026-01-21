@@ -45,7 +45,7 @@ Eu sempre fui destacado como alguém com uma curva de aprendizado acentuada. Um 
 <img src="https://skillicons.dev/icons?i=java,postgres,py&perline=6" />
 
 ### DevOps & Infraestrutura
-<img src="https://skillicons.dev/icons?i=windows-dark,github,git&perline=6" />
+<img src="https://skillicons.dev/icons?i=windows,github,git&perline=6" />
 
 </div>
 
