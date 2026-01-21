@@ -13,7 +13,7 @@
 
 <p>
   <img src="https://img.shields.io/badge/🚀%20Aberto%20para%20Trabalho-Imediato-0ea5e9?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/📍%20Localização-Vila%20Velha%2C%20BR%20-%20Espírito%20Santo-6366f1?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/📍%20Localização-Vila%20Velha%2C%20ES-6366f1?style=for-the-badge" />
 </p>
 
 </div>
