@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Vitor%20Soares&section=header&reversal=false&animation=fadeIn&textBg=false" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Vitor%20Soares&desc=Python%20|%20PostgreSQL%20|%20Tableau%20|%20Java&descAlign=50&descAlignY=64&fontAlignY=48" />
 
 ### Estudante de Dados | Data Mindset | SQL, Python e Tableau
 
@@ -13,7 +13,7 @@
 
 <p>
   <img src="https://img.shields.io/badge/🚀%20Aberto%20para%20Trabalho-Imediato-0ea5e9?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/📍%20Localização-Vila%20Velha%2C%20BR%2-→%20Espírito%20Santo-6366f1?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/📍%20Localização-Vila%20Velha%2C%20BR%20-%20Espírito%20Santo-6366f1?style=for-the-badge" />
 </p>
 
 </div>
