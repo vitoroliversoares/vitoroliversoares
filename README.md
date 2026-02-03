@@ -9,7 +9,7 @@
 <p>
   <a href="https://www.linkedin.com/in/vitor-soares-ti/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:vitordeoliveirasoares092@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://vitorsoares.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-22c55e?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://vitor-soares.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-22c55e?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 </p>
 
 <p>
