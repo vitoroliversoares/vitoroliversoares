@@ -120,8 +120,8 @@ Sistema de gerenciamento de tickets focado na organização operacional:
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=vitoroliversoares&show_icons=true&theme=tokyonight&hide_title=true&include_all_commits=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitoroliversoares&layout=compact&theme=tokyonight&langs_count=8" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=vitoroliversoares&show_icons=true&theme=tokyonight&hide_title=true&include_all_commits=true&count_private=true?v=1" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitoroliversoares&layout=compact&theme=tokyonight&langs_count=8?v=1" />
 
 </div>
 
