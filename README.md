@@ -7,9 +7,9 @@
 ### Estudante de Dados | Data Mindset | SQL, Python e Tableau
 
 <p>
-  <a href="https://www.linkedin.com/in/vitor-soares-ti/"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=white" /></a>
-  <a href="mailto:vitordeoliveirasoares092@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://vitorsoares.vercel.app/"><img src="
+  <a href="https://www.linkedin.com/in/vitor-soares-ti/"><img src="https://img.shields.io/badge/LinkedIn?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:vitordeoliveirasoares092@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" /></a>
+  <a href="https://vitorsoares.vercel.app/"><img src="https:
 </p>
 
 <p>
