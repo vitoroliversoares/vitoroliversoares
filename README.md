@@ -67,7 +67,14 @@ Eu sempre fui destacado como alguém com uma curva de aprendizado acentuada. Um 
 
 ## 💼 Experiência Profissional
 
-### 🔹 Assistente de Suporte Técnico Pleno — **GShield** (Ago 2025 – Presente)
+### 🔹 Estagiário de Dados - **Autoglass** (Mar 2026 - Presente)
+**Presencial | Vila Velha, ES**
+
+Foco em **aprendizado em extração de dados, consultas avançadas em SQL e modelagem de dashboards**.
+
+**Stack:** Python, SQL, Tableau
+
+### 🔹 Assistente de Suporte Técnico Pleno — **GShield** (Ago 2025 – Mar 2026)
 **Presencial | Serra, ES**
 
 Foco em **engenharia de suporte**, automação de infraestrutura e otimização de SLA:
@@ -119,8 +126,8 @@ Sistema de gerenciamento de tickets focado na organização operacional:
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=vitoroliversoares&show_icons=true&theme=tokyonight&hide_title=true&include_all_commits=true&count_private=true?v=1" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitoroliversoares&layout=compact&theme=tokyonight&langs_count=8?v=1" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=vitoroliversoares&show_icons=true&theme=tokyonight&hide_title=true&include_all_commits=true&count_private=true?v=?" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitoroliversoares&layout=compact&theme=tokyonight&langs_count=8?v=?" />
 
 </div>
 
