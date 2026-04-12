@@ -30,7 +30,7 @@ Estudante de [Sistemas de Informação](https://www.faesa.br/graduacao/sistemas-
 - Backend: Python, .NET (C#), Java, JavaScript
 - Databases: MySQL, PostgreSQL, SQL Server
 - DevOps: Docker, Linux (Ubuntu e Rocky), Nginx, GitHub, Git
-- Ferramentas: Excel, Tableau
+- Ferramentas: Excel, Tableau, Snowflake, AirFlow
 - Infraestrutura: Windows Server
 - Idiomas: Inglês (Intermediário)
 
@@ -70,9 +70,9 @@ Eu sempre fui destacado como alguém com uma curva de aprendizado acentuada. Um 
 ### 🔹 Estagiário de Dados - **Autoglass** (Mar 2026 - Presente)
 **Presencial | Vila Velha, ES**
 
-Foco em **aprendizado em extração de dados, consultas avançadas em SQL e modelagem de dashboards**.
+Foco em **aprendizado em extração de dados, consultas avançadas em SQL via Snowflake e modelagem de dashboards**.
 
-**Stack:** Python, SQL, Tableau
+**Stack:** Python, PL/SQL, Tableau, Snowflake, AirFlow, PySpark
 
 ### 🔹 Assistente de Suporte Técnico Pleno — **GShield** (Ago 2025 – Mar 2026)
 **Presencial | Serra, ES**
