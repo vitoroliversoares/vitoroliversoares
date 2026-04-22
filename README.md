@@ -28,9 +28,10 @@ Estudante de [Sistemas de Informação](https://www.faesa.br/graduacao/sistemas-
 
 **Expertise:**
 - Backend: Python, .NET (C#), Java, JavaScript
-- Databases: MySQL, PostgreSQL, SQL Server
+- Databases: MySQL, PostgreSQL, SQL Server, PL/SQL
 - DevOps: Docker, Linux (Ubuntu e Rocky), Nginx, GitHub, Git
-- Ferramentas: Excel, Tableau, Snowflake, AirFlow
+- Orquestração: Jenkins, Snowflake, Airflow
+- Ferramentas: Excel, Tableau
 - Infraestrutura: Windows Server
 - Idiomas: Inglês (Intermediário)
 
@@ -42,10 +43,10 @@ Eu sempre fui destacado como alguém com uma curva de aprendizado acentuada. Um 
 <div align="center">
 
 ### Backend & Banco de Dados
-<img src="https://skillicons.dev/icons?i=java,postgres,py&perline=6" />
+<img src="https://skillicons.dev/icons?i=java,postgres,py,js&perline=6" />
 
-### DevOps & Infraestrutura
-<img src="https://skillicons.dev/icons?i=windows,github,git&perline=6" />
+### DevOps, Infraestrutura & Orquestração
+<img src="https://skillicons.dev/icons?i=windows,github,git,jenkins&perline=6" />
 
 </div>
 
@@ -72,7 +73,7 @@ Eu sempre fui destacado como alguém com uma curva de aprendizado acentuada. Um 
 
 Foco em **aprendizado em extração de dados, consultas avançadas em SQL via Snowflake e modelagem de dashboards**.
 
-**Stack:** Python, PL/SQL, Tableau, Snowflake, AirFlow, PySpark
+**Stack:** Python, PL/SQL, Tableau, Snowflake, AirFlow, PySpark, Jenkins
 
 ### 🔹 Assistente de Suporte Técnico Pleno — **GShield** (Ago 2025 – Mar 2026)
 **Presencial | Serra, ES**
