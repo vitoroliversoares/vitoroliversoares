@@ -35,7 +35,7 @@ Estudante de [Sistemas de Informação](https://www.faesa.br/graduacao/sistemas-
 - Infraestrutura: Windows Server
 - Idiomas: Inglês (Intermediário)
 
-Eu sempre fui destacado como alguém com uma curva de aprendizado acentuada. Um dos feitos que gosto de mencionar é ter compreendido a sintaxe do Python em um final de semana (loops, arrays, funções, métodos). Agilidade e eficiência são os dois pilares no qual eu me apoio para realizar um trabalho impecável.
+Eu sempre fui destacado como alguém com uma curva de aprendizado acentuada. Um dos feitos que gosto de mencionar é ter compreendido a sintaxe do Python em um final de semana (loops, arrays, funções, métodos) e aperfeiçoado lógica de programação pelo celular. Agilidade e eficiência são os dois pilares no qual eu me apoio para realizar um trabalho impecável.
 ---
 
 ## 🛠️ Stack Técnica
